@@ -1,4 +1,4 @@
-# Numerical Methods — Enhanced Class Notes
+# Numerical Methods — Class Notes — 2021.02 
 
 ---
 
